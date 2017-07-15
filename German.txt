@@ -1,0 +1,3 @@
+I	pronoun	ich
+you	pronoun	du
+dream	noun	Traum	der

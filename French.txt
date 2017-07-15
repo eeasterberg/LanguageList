@@ -1,0 +1,3 @@
+I	pronoun	je
+you	pronoun	tu
+dream	noun	rêve
