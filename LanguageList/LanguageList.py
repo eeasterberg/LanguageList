@@ -45,4 +45,4 @@ for numwins in range(1, 20):
     print(numwins, sum * (1000 - 10 * numwins))
 # Best 13 of 25; $736,222
 
-print(eratosthenes(1000000))
+print(eratosthenes(500000))
